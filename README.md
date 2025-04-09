@@ -4,7 +4,13 @@
 ### Простой инструмент для управления задачами
 [todo.py](https://github.com/alekseypopkov/py-telegram/blob/main/todo.py)
 
-### Простой инструмент для управления задачами перенесли в telebot
+### Простой инструмент для управления задачами переносим в telebot:
+
+Для установки telebot (pyTelegramBotAPI):
+```bash
+pip install pyTelegramBotAPI
+```
+
 [telebot.py](https://github.com/alekseypopkov/py-telegram/blob/main/telebot.py)
 
 
