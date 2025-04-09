@@ -11,6 +11,6 @@
 pip install pyTelegramBotAPI
 ```
 
-[telebot.py](https://github.com/alekseypopkov/py-telegram/blob/main/telebot.py)
+[telebot.py](https://github.com/alekseypopkov/py-telegram/blob/main/alex-telebot.py)
 
 
